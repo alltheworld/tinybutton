@@ -1,0 +1,16 @@
+/node_modules
+/public/storage
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+
+/node_modules
+Homestead.yaml
+Homestead.json
+
+.env_tmp_disable
+.idea
+public/assets
+tests/_output/*
