@@ -7,7 +7,7 @@ ASRC    =
 VPATH   =
 
 ### Target device
-DEVICE  = attiny13a
+DEVICE  = attiny13
 
 ### Optimization level (0, 1, 2, 3, 4 or s)
 OPTIMIZE = s

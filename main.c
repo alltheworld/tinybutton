@@ -1,5 +1,5 @@
 /*
- * ver 2.1
+ * ver 2.2
  * button PB0
   * Load PB5
  * we need delay 250 ms. or like current delay div by 2
@@ -13,6 +13,13 @@
 
 #include <avr/io.h>
 #include <util/delay.h>
+
+/*
+PB0 - leg 5  (MOSI) 
+PB3 - leg 2  
+
+*/
+
 
 
 int main (void)
@@ -50,7 +57,7 @@ int main (void)
 				    		ButtonPressed=1;
 				    		ButtonWaitingUnpressing=1;
 				    		//_delay_ms(50);//_delay_ms(100);//old was 100. now we will set divide 2
-				    		_delay_us(50000);//1ms
+				    		_delay_us(50000);//
 
 				    		PORTB &= ~(1 << LED_PIN);//off led
 
