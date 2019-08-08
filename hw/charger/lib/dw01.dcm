@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DW01
+D The DW01-P     battery protection IC  SOT-23-6
+K DW01    battery protection
+F https://voron.ua/files/pdf/Microshema/DW01-P_DataSheet_V10.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FS8205S
+D FS8205S dual N-mosfet transistor. SOT-23-6
+K FS8205S dual N-mosfet transistor
+F https://www.ic-fortune.com/upload/Download/FS8205-DS-19_EN.pdf
+$ENDCMP
+#
+#End Doc Library

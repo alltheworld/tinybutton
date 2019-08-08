@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TP4056
+D TP4056 1A Standalone Linear Li-lon Battery Charger with Thermal Regulation in SOP-8
+K TP4056 Linear Li-lon Battery Charger
+F https://voron.ua/files/pdf/micoshema/TP4056.pdf
+$ENDCMP
+#
+#End Doc Library

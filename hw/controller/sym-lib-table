@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name my_ce8301)(type Legacy)(uri /data/repo.mbed/button2019/schematics/kicad5.1/controller/controller_main/main/lib/ce8301.lib)(options "")(descr ce8301))
+)
