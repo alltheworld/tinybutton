@@ -7,6 +7,7 @@ Homestead.yaml
 .env
 
 /obj
+/code/obj
 
 /node_modules
 Homestead.yaml
